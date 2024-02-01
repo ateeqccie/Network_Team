@@ -1,6 +1,6 @@
 # Network Team.
 - Technician
-- Wifi Engineer
+- Wifi Engineer / Technician
 - Cisco Any Connect
 ## Cisco Any Connect Team.
 - Cisco Engineer
